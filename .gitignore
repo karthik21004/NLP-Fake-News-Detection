@@ -1,0 +1,22 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data & models (keep code-only repo)
+data/
+datasets/
+models/
+checkpoints/
+artifacts/
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.bin
+*.ckpt
+
+# OS / IDE
+.DS_Store
+.vscode/
+.env
